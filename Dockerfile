@@ -12,7 +12,7 @@ WORKDIR $APP_HOME
 ENTRYPOINT exec java -jar app.jar 
 
 
-#FROM openjdk:8u151-jdk-alpine3.7 
+#FROM eclipse-temurin:17-jdk-alpine
 
 # Set environment variable for application directory
 #ENV APP_HOME=/usr/src/app 
