@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.notthebest</groupId>
 	<artifactId>secretsanta</artifactId>
-	<version>0.0.3</version>
+	<version>0.0.4</version>
 	<name>secretsanta</name>
 	<description>Secret Santa Matchmaking</description>
 
